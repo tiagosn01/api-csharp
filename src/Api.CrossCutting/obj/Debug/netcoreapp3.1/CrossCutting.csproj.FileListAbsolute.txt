@@ -1,0 +1,9 @@
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/tiago/Projects/coursec#/api/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
