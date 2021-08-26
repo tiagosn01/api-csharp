@@ -6,3 +6,11 @@
 /home/tiago/Projects/coursec#/api/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
 /home/tiago/Projects/coursec#/api/src/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
 /home/tiago/Projects/coursec#/api/src/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
+/home/tiago/Projects/coursec#/api/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csprojAssemblyReference.cache
+/home/tiago/Projects/coursec#/api/src/Api.Service/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/tiago/Projects/coursec#/api/src/Api.Service/bin/Debug/netcoreapp3.1/Data.dll
+/home/tiago/Projects/coursec#/api/src/Api.Service/bin/Debug/netcoreapp3.1/Domain.dll
+/home/tiago/Projects/coursec#/api/src/Api.Service/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/tiago/Projects/coursec#/api/src/Api.Service/bin/Debug/netcoreapp3.1/Data.pdb
+/home/tiago/Projects/coursec#/api/src/Api.Service/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/tiago/Projects/coursec#/api/src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CopyComplete
